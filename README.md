@@ -1,10 +1,11 @@
-#  A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images
+# A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images
 
-In this repository, we implement the Attentive Bilateral Contextual Network which contains a spatial path and a contextual path to fully capture the long-range relationships and fine-grained details in fine-resolution remote sensing images. 
+In this repository, we implement the Feature Pyramid Network (FPN) with Attention Aggregation Module (AAM), i.e., A<sup>2</sup>-FPN, for semantic segmentation of fine-resolution remotely sensed images.
 
-The detailed results can be seen in the [ABCNet: Attentive Bilateral Contextual Network for Efficient Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://arxiv.org/abs/2102.02531).
+The detailed results can be seen in the [A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images](https://arxiv.org/pdf/2102.07997.pdf).
 
 The related repositories include:
+* [ABCNet](https://github.com/lironui/ABCNet)->An efficient segmentation model.
 * [MACU-Net](https://github.com/lironui/MACU-Net)->A modified version of U-Net.
 * [BANet](https://github.com/lironui/BANet)->A Transformer-based segmentation network.
 * [MAResU-Net](https://github.com/lironui/MAResU-Net)->A ResNet-based network with attention mechanism.
@@ -12,7 +13,7 @@ The related repositories include:
 
 If our code is helpful to you, please cite:
 
-`Li, Rui, and Chenxi Duan. "ABCNet: Attentive Bilateral Contextual Network for Efficient Semantic Segmentation of Fine-Resolution Remote Sensing Images." arXiv preprint arXiv:2102.02531 (2021).` (The paper has been accepted by ISPRS R&RS, the citation form will be updated soon)
+`Li, Rui, Libo Wang, Ce Zhang, Chenxi Duan, and Shunyi Zheng. "A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images." arXiv preprint arXiv:2102.07997 (2021).` (The paper has been accepted by International Journal of Remore Sensing, the citation form will be updated soon)
 
 Requirements：
 ------- 
