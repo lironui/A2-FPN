@@ -15,16 +15,6 @@ If our code is helpful to you, please cite:
 
 `Li, Rui, Libo Wang, Ce Zhang, Chenxi Duan, and Shunyi Zheng. "A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images." arXiv preprint arXiv:2102.07997 (2021).` (The paper has been accepted by International Journal of Remore Sensing, the citation form will be updated soon)
 
-Requirements：
-------- 
-```
-numpy >= 1.16.5
-PyTorch >= 1.3.1
-sklearn >= 0.20.4
-tqdm >= 4.46.1
-imageio >= 2.8.0
-```
-
 Network:
 ------- 
 ![network](https://github.com/lironui/A2-FPN/blob/main/figure/network.png)  
