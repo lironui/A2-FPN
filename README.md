@@ -1,4 +1,4 @@
-#  A^2-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images
+#  A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images
 
 In this repository, we implement the Attentive Bilateral Contextual Network which contains a spatial path and a contextual path to fully capture the long-range relationships and fine-grained details in fine-resolution remote sensing images. 
 
