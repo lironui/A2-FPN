@@ -28,12 +28,12 @@ timm >= 0.4.5
 
 Network:
 ------- 
-![network](https://github.com/lironui/ABCNet/blob/main/figure/network.png)  
+![network](https://github.com/lironui/A2-FPN/blob/main/figure/network.png)  
 Fig. 1.  The overall architecture of ABCNet.
 
 Result:
 ------- 
-The result on the [UAVid dataset](https://uavid.nl/) can seen from [here, where the user name is **lironui**](https://competitions.codalab.org/competitions/25224#results):
+The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https://competitions.codalab.org/competitions/public_submissions/25224) or download by this [link](https://competitions.codalab.org/my/competition/submission/1055948/input.zip):
 
 | Method    | building | tree     | clutter   | road     | vegetation | static car | moving car | human    | mIoU     | 
 |-----------|----------|----------|-----------|----------|------------|------------|------------|----------|----------| 
@@ -44,10 +44,6 @@ The result on the [UAVid dataset](https://uavid.nl/) can seen from [here, where 
 | SwiftNet  | 85.3     | 78.2     | 44.1      | 61.4     | 43.4       | 21.0       | 52.6       | 3.6      | 47.0     | 
 | ABCNet    | **86.4** | **79.9** | **67.4**  | **81.2** | 63.1       | 48.4       | **69.8**   | 13.9     | **63.8** | 
 
-
-![Result](https://github.com/lironui/BANet/blob/main/figure/UAVid%20-%20val.png)  
-Fig. 2. The experimental results on the UAVid validation set. The first column illustrates the input RGB images, the second column depicts the ground reference and the third column shows the predictions of our BANet.
-
-![Result](https://github.com/lironui/BANet/blob/main/figure/UAVid.png)  
-Fig. 3.  The experimental results on the UAVid test set. The first column illustrates the input RGB images, the second column depicts the outputs of MSD and the third column shows the predictions of our BANet. 
+![Result](https://github.com/lironui/A2-FPN/blob/main/figure/UAVid.png)  
+Fig. 2.  The experimental results on the UAVid test set. The first column illustrates the input RGB images, the second column depicts the outputs of MSD and the third column shows the predictions of our A<sup>2</sup>-FPN. 
 
