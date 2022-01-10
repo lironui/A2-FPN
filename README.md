@@ -29,7 +29,7 @@ timm >= 0.4.5
 Network:
 ------- 
 ![network](https://github.com/lironui/A2-FPN/blob/main/figure/network.png)  
-Fig. 1.  The overall architecture of ABCNet.
+Fig. 1.  The overall architecture of A<sup>2</sup>-FPN.
 
 Result:
 ------- 
