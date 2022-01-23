@@ -24,6 +24,7 @@ Result:
 ------- 
 The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https://competitions.codalab.org/competitions/public_submissions/25224) or download by this [link](https://competitions.codalab.org/my/competition/submission/1055948/input.zip):
 
+ <center>
 | Method    | Backbone  | building | tree     | clutter   | road     | vegetation | static car | moving car | human    | mIoU     | 
 |-----------|----------|----------|----------|-----------|----------|------------|------------|------------|----------|----------| 
 | MSD       |- | 79.8     | 74.5     | 57.0      | 74.0     | 55.9       | 32.1       | 62.9       | 19.7 | 57.0     | 
@@ -34,6 +35,7 @@ The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https:
 | BANet     |ResNet-18 | 85.4     | 78.9 | 66.6  | 80.7 | 62.1       | 52.8       | 69.3   | 21.0 | 64.6 | 
 | ABCNet    |ResNet-18 | 86.4 | 79.9 | **67.4**  | **81.2** | 63.1       | 48.4       | 69.8   | 13.9     | 63.8 | 
 | A<sup>2</sup>-FPN |ResNet-18 | **87.2** | **80.1** | **67.4**  | 80.2 | 63.7       | 53.3       | **70.1**   | **23.4**     | **65.7** | 
+ </center>
 
 ![Result](https://github.com/lironui/A2-FPN/blob/main/figure/UAVid.png)  
 Fig. 2.  The experimental results on the UAVid test set. The first column illustrates the input RGB images, the second column depicts the outputs of MSD and the third column shows the predictions of our A<sup>2</sup>-FPN. 
