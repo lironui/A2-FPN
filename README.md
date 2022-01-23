@@ -25,7 +25,7 @@ Result:
 The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https://competitions.codalab.org/competitions/public_submissions/25224) or download by this [link](https://competitions.codalab.org/my/competition/submission/1055948/input.zip):
 
 | Method    | Backbone  | building | tree     | clutter   | road     | vegetation | static car | moving car | human    | mIoU     | 
-|-----------|----------|----------|-----------|----------|------------|------------|------------|----------|----------| 
+|-----------|----------|----------|----------|-----------|----------|------------|------------|------------|----------|----------| 
 | MSD       |ResNet-18 | 79.8     | 74.5     | 57.0      | 74.0     | 55.9       | 32.1       | 62.9       | 19.7 | 57.0     | 
 | BiSeNet   |ResNet-18 | 85.7     | 78.3     | 64.7      | 61.1     | **77.3**   | **63.4**   | 48.6       | 17.5     | 61.5     | 
 | SwiftNet  |ResNet-18 | 85.3     | 78.2     | 64.1      | 61.5     | 76.4       | 62.1       | 51.1       | 15.7     | 61.1     | 
