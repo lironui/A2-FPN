@@ -4,7 +4,7 @@
 
 In this repository, we implement the Feature Pyramid Network (FPN) with Attention Aggregation Module (AAM), i.e., A<sup>2</sup>-FPN, for semantic segmentation of fine-resolution remotely sensed images.
 
-The detailed results can be seen in the [A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images](https://arxiv.org/pdf/2102.07997.pdf).
+The detailed results can be seen in the [A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2030071).
 
 The related repositories include:
 * [ABCNet](https://github.com/lironui/ABCNet)->An efficient segmentation model.
