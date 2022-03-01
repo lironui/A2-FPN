@@ -15,7 +15,7 @@ The related repositories include:
 
 If our code is helpful to you, please cite:
 
-`Li, Rui, Libo Wang, Ce Zhang, Chenxi Duan, and Shunyi Zheng. "A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images." arXiv preprint arXiv:2102.07997 (2021).` (The paper has been accepted by International Journal of Remote Sensing, the citation form will be updated soon)
+`Rui Li, Libo Wang, Ce Zhang, Chenxi Duan & Shunyi Zheng (2022) A2-FPN for semantic segmentation of fine-resolution remotely sensed images, International Journal of Remote Sensing, 43:3, 1131-1155, DOI: 10.1080/01431161.2022.2030071.`
 
 Network:
 ------- 
