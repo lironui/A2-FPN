@@ -39,9 +39,9 @@ The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https:
 
 Reference:  
 `[1] Lyu, Y., Vosselman, G., Xia, G. S., Yilmaz, A., & Yang, M. Y. (2020). UAVid: A semantic segmentation dataset for UAV imagery. ISPRS journal of photogrammetry and remote sensing, 165, 108-119.`  
-`[2] Yu, C., Wang, J., Peng, C., Gao, C., Yu, G., & Sang, N. (2018). Bisenet: Bilateral segmentation network for real-time semantic segmentation. In Proceedings of the European conference on computer vision (ECCV) (pp. 325-341).`
-`[3] Oršić, M., & Šegvić, S. (2021). Efficient semantic segmentation with pyramidal fusion. Pattern Recognition, 110, 107611.`
-`[4] Zhuang, J., Yang, J., Gu, L., & Dvornek, N. (2019). Shelfnet for fast semantic segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (pp. 0-0).`
+`[2] Yu, C., Wang, J., Peng, C., Gao, C., Yu, G., & Sang, N. (2018). Bisenet: Bilateral segmentation network for real-time semantic segmentation. In Proceedings of the European conference on computer vision (ECCV) (pp. 325-341).`  
+`[3] Oršić, M., & Šegvić, S. (2021). Efficient semantic segmentation with pyramidal fusion. Pattern Recognition, 110, 107611.`  
+`[4] Zhuang, J., Yang, J., Gu, L., & Dvornek, N. (2019). Shelfnet for fast semantic segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (pp. 0-0).`  
 `[5] R. Li, S. Zheng, C. Zhang, C. Duan *, J. Su, L. Wang, and P. M. Atkinson. (2021). Multiattention network for semantic segmentation of fine-resolution remote sensing images. IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3093977.`  
 `[6] L. Wang, R. Li, D. Wang, C. Duan, T. Wang, and X. Meng. (2021). Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images. Remote Sensing, 13(16), 3065, doi: 10.3390/rs13163065.`  
 `[7] R. Li, S. Zheng, C. Zheng, C. Duan *, L. Wang, and P. M. Atkinson. ABCNet: Attentive bilateral contextual network for efficient semantic segmentation of Fine-Resolution remotely sensed imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 181, 84-98, doi: 10.1016/j.isprsjprs.2021.09.005.`  
