@@ -45,7 +45,7 @@ Reference:
 `[5] R. Li, S. Zheng, C. Zhang, C. Duan *, J. Su, L. Wang, and P. M. Atkinson. (2021). Multiattention network for semantic segmentation of fine-resolution remote sensing images. IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3093977.`  
 `[6] L. Wang, R. Li, D. Wang, C. Duan, T. Wang, and X. Meng. (2021). Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images. Remote Sensing, 13(16), 3065, doi: 10.3390/rs13163065.`  
 `[7] R. Li, S. Zheng, C. Zheng, C. Duan *, L. Wang, and P. M. Atkinson. ABCNet: Attentive bilateral contextual network for efficient semantic segmentation of Fine-Resolution remotely sensed imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 181, 84-98, doi: 10.1016/j.isprsjprs.2021.09.005.`  
-`[8] R. Li, L. Wang, C. Zhang, C. Duan, S. Zheng. (2022) A<sup>2</sup>-FPN for semantic segmentation of fine-resolution remotely sensed images. International Journal of Remote Sensing, 43:3, 1131-1155, doi: 10.1080/01431161.2022.2030071.`
+`[8] R. Li, L. Wang, C. Zhang, C. Duan, S. Zheng. (2022) A2-FPN for semantic segmentation of fine-resolution remotely sensed images. International Journal of Remote Sensing, 43:3, 1131-1155, doi: 10.1080/01431161.2022.2030071.`
 
 
 ![Result](https://github.com/lironui/A2-FPN/blob/main/figure/UAVid.png)  
