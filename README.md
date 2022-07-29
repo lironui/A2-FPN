@@ -6,7 +6,7 @@ In this repository, we implement the Feature Pyramid Network (FPN) with Attentio
 
 The detailed results can be seen in the [A<sup>2</sup>-FPN for Semantic Segmentation of Fine-Resolution Remotely Sensed Images](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2030071).
 
-The training and testing code can refre to [GeoSeg](https://github.com/WangLibo1995/GeoSeg).
+The training and testing code can refer to [GeoSeg](https://github.com/WangLibo1995/GeoSeg).
 
 The related repositories include:
 * [ABCNet](https://github.com/lironui/ABCNet)->An efficient segmentation model.
